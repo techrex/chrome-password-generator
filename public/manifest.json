@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "高强度随机密码生成器",
+  "version": "1.0.0",
+  "description": "Generate secure passwords with customizable options",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [],
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
